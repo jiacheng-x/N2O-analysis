@@ -134,14 +134,6 @@ If you use this code or data in your research, please cite:
 
 > Hot or Not? An Evaluation of Methods for Identifying Hot Moments of Nitrous Oxide Emissions From Soils. *Journal of Geophysical Research: Biogeosciences* 130.1 (2025): e2024JG008138.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Authors
-
-- Jiacheng X.
-- Contributors listed in the published paper
 
 ## Contact
 
